@@ -14,8 +14,8 @@
 <h2>> <a href='https://discord.com/users/806345024631078953'>Discord</a> <</h2><br>
 <h2>> <a href='https://www.facebook.com/its.marufmurtuza'>Facebook</a> <</h2><br>
 </center>
-<h3>I just not only love to learn about cybersecurity, but love to teach about that as well.<br>
-So, I write and make videos on various topics of cybersecurity. You can find them in the following links:</h3>
+<h3>I just not only love to learn about cybersecurity, but love to teach about that as well.</h3>
+<h3>So, I write and make videos on various topics of cybersecurity. You can find them in the following links:</h3>
 <center>
 <h2>> <a href='blog.knightsquad.org'>Blogs</a> <</h2><br>
 <h2>> <a href='https://www.youtube.com/channel/UCW11Fl0kDGoRjbu-R_rNaDw'>Youtube</a> <</h2><br>
@@ -26,5 +26,7 @@ So, I write and make videos on various topics of cybersecurity. You can find the
 <h2>> <a href='https://tryhackme.com/p/marufmurtuza'>Try Hack Me</a> <</h2><br>
 <h2>> <a href='https://app.hackthebox.eu/profile/498360'>Hack The Box</a> <</h2><br>
 <h2>> <a href='https://cybertalents.com/members/marufmurtuza/profile'>Cyber Talents</a> <</h2>
-
 </center>
+<br>
+<br>
+<center><h5>-x-x-x-x-x-x-x-</h5></center>
