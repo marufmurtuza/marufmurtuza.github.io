@@ -9,7 +9,7 @@
 <h3>So, I won't mind if you invite me to have a cup of coffee or some spicy slices of pizza with you... 😉</h3>
 <h3>To invite me for coffee or pizza, you can reach me via the following links:</h3>
 <center>
-<h2>>>></h2><a href='https://www.linkedin.com/in/marufmurtuza'> Linkedin </a><h2><<<</h2><br>
+<h2>>>><a href='https://www.linkedin.com/in/marufmurtuza'> Linkedin </a><<<</h2><br>
 <h2>>>></h2><a href='https://twitter.com/marufmurtuza'> Twitter </a><h2><<<</h2><br>
 <h2>>>></h2><a href='https://discord.com/users/806345024631078953'> Discord </a><h2><<<</h2><br>
 <h2>>>></h2><a href='https://www.facebook.com/its.marufmurtuza'> Facebook </a><h2><<<</h2><br>
