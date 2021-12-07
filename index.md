@@ -1,5 +1,4 @@
 <h1>Hey there!</h1>
-<br>
 <h3>
 <br>It's Maruf Bin Murtuza here, a cyber security enthusiast from Bangladesh.</h3>
 <h3> I am currently doing my B.Sc in CSE from Brac University.</h3>
@@ -7,17 +6,17 @@
 <h3> But don't think me as a nerd just because of my passion.  I 1ove to enjoy life outside cyberspace as well.</h3> 
 <h3>So, I won't mind if you invite me to have a cup of coffee or some spicy slices of pizza with you...😉</h3>
 <h3>To invite me for coffee or pizza, you can reach me via the following links:</h3>
-<ul><li><a href='https://www.linkedin.com/in/marufmurtuza'># Linkedin</a></li><br>
-<li><a href='https://twitter.com/marufmurtuza'># Twitter</a></li><br>
-<li><a href='https://discord.com/users/806345024631078953'># Discord</a></li><br>
-<li><a href='https://www.facebook.com/its.marufmurtuza'># Facebook</a></li><br>
+<ul><li><a href='https://www.linkedin.com/in/marufmurtuza'> Linkedin</a></li><br>
+<li><a href='https://twitter.com/marufmurtuza'> Twitter</a></li><br>
+<li><a href='https://discord.com/users/806345024631078953'> Discord</a></li><br>
+<li><a href='https://www.facebook.com/its.marufmurtuza'> Facebook</a></li><br>
 </ul>
-<h3>I just not only love to learn about cybersecurity, but love to teach about that as well. So, I write and make videos on various topics of cybersecurity. You can find them in the following links:</h3> <br> 
-<ul><li><a href='blog.knightsquad.org'># Blogs</a></li><br>
-<li><a href='https://www.youtube.com/channel/UCW11Fl0kDGoRjbu-R_rNaDw'># Youtube</a></li><br>
+<h3>I just not only love to learn about cybersecurity, but love to teach about that as well. So, I write and make videos on various topics of cybersecurity. You can find them in the following links:</h3>
+<ul><li><a href='blog.knightsquad.org'> Blogs</a></li><br>
+<li><a href='https://www.youtube.com/channel/UCW11Fl0kDGoRjbu-R_rNaDw'> Youtube</a></li><br>
 </ul>
-<h3>And, here are some links, just in case you are interested about my ranks on different platforms:</h3><br>
-<ul><li><a href='https://tryhackme.com/p/marufmurtuza'># Try Hack Me</a></li><br>
-<li><a href='https://app.hackthebox.eu/profile/498360'># Hack The Box</a></li><br>
+<h3>And, here are some links, just in case you are interested about my ranks on different platforms:</h3>
+<ul><li><a href='https://tryhackme.com/p/marufmurtuza'> Try Hack Me</a></li><br>
+<li><a href='https://app.hackthebox.eu/profile/498360'> Hack The Box</a></li><br>
 <li><a href='https://cybertalents.com/members/marufmurtuza/profile'># Cyber Talents</a></li>
 </ul>
