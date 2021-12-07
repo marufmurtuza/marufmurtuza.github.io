@@ -1,3 +1,6 @@
+
+<center><img src="https://raw.githubusercontent.com/marufmurtuza/marufmurtuza.github.io/main/white_skull_logo.png"></center>
+<br>
 <h1>Hey there!</h1>
 <h3>
 <br>It's Maruf Bin Murtuza here, a cyber security enthusiast from Bangladesh.</h3>
