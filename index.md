@@ -28,6 +28,5 @@
 <h2>> <a href='https://cybertalents.com/members/marufmurtuza/profile'>Cyber Talents</a> <</h2>
 </center>
 <br>
-</marquee>
-<marquee behavior="scroll" direction="right" scrollamount="1"><h5><-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-></h5></marquee>
+<marquee behavior="scroll" direction="right" scrollamount="5"><h5><-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-></h5></marquee>
 <br>
