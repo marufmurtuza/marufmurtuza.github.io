@@ -1,7 +1,6 @@
-<video autoplay muted loop id="myVideo">
-  <source src="bg.mp4" type="video/mp4">
-</video>
-<div class="content">
+<iframe frameborder="0" height="100%" width="100%"
+   src="bg.mp4">
+</iframe>
 <center><img src="https://raw.githubusercontent.com/marufmurtuza/marufmurtuza.github.io/main/white_skull_logo.png"></center>
 <h1>Hey there!</h1>
 <h3>
@@ -35,4 +34,3 @@
 <h3>Good Bye!</h3>
 <h3>Hoping a coffee invitaion from you soon... 😉</h3>
 <br>
-</div>
