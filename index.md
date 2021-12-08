@@ -2,10 +2,6 @@
   <source src="bg.mp4" type="video/mp4">
 </video>
 <div class="content">
-
-
-
-
 <center><img src="https://raw.githubusercontent.com/marufmurtuza/marufmurtuza.github.io/main/white_skull_logo.png"></center>
 <h1>Hey there!</h1>
 <h3>
