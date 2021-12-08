@@ -1,8 +1,8 @@
-<style>
-body {
-  background-image: url('https://raw.githubusercontent.com/marufmurtuza/marufmurtuza.github.io/main/bg.jpg');
-}
-</style> 
+<video autoplay muted loop id="myVideo">
+  <source src="bg.mp4" type="video/mp4">
+</video>
+
+
 
 
 
