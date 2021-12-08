@@ -1,7 +1,7 @@
 <video autoplay muted loop id="myVideo">
   <source src="bg.mp4" type="video/mp4">
 </video>
-
+<div class="content">
 
 
 
@@ -39,3 +39,4 @@
 <h3>Good Bye!</h3>
 <h3>Hoping a coffee invitaion from you soon... 😉</h3>
 <br>
+</div>
