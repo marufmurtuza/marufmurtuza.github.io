@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://raw.githubusercontent.com/marufmurtuza/marufmurtuza.github.io/main/bg.jpg');
+  background-image: url('https://raw.githubusercontent.com/marufmurtuza/marufmurtuza.github.io/main/background.jpg');
 }
 </style> 
 <center><img src="https://raw.githubusercontent.com/marufmurtuza/marufmurtuza.github.io/main/white_skull_logo.png"></center>
