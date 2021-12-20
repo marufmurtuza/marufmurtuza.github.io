@@ -16,7 +16,7 @@ body {
 <h2>> <a href='https://www.linkedin.com/in/marufmurtuza'>Linkedin</a> <</h2><br>
 <h2>> <a href='https://twitter.com/marufmurtuza'>Twitter</a> <</h2><br>
 <h2>> <a href='https://discord.com/users/806345024631078953'>Discord</a> <</h2><br>
-<h2>> <a href='https://www.facebook.com/its.marufmurtuza'>Facebook</a> <</h2><br>
+<h2>> <a href='https://www.facebook.com/0xmarufmurtuza/'>Facebook</a> <</h2><br>
 </center>
 <h3>I just not only love to learn about cybersecurity, but love to teach about that as well.</h3>
 <h3>So, I write and make videos on various topics of cybersecurity. You can find them in the following links:</h3>
