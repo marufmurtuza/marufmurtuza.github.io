@@ -6,7 +6,7 @@ body {
 <center><img src="https://raw.githubusercontent.com/marufmurtuza/marufmurtuza.github.io/main/white_skull_logo.png"></center>
 <h1>Hey there!</h1>
 <h3>
-<br>It's Maruf Bin Murtuza, a cyber security enthusiast from Bangladesh.</h3>
+<br>It's Maruf Bin Murtuza, an infosec enthusiast from Bangladesh.</h3>
 <h3> I am currently doing my B.Sc in CSE from Brac University.</h3>
 <h3> I am a fan of technology, programming and finding security flaws.  It's my passion to find system vulnerabilities.</h3> 
 <h3> But don't think me as a nerd just because of my passion.  I 1ove to enjoy life outside cyberspace as well.</h3> 
