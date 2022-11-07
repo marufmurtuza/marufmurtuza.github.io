@@ -21,7 +21,7 @@ body {
 <h3>I just not only love to learn about cybersecurity, but love to teach about that as well.</h3>
 <h3>So, I write and make videos on various topics of cybersecurity. You can find them in the following links:</h3>
 <center>
-<h2>> <a href='blog.knightsquad.org'>Blogs</a> <</h2><br>
+<h2>> <a href='https://blog.marufmurtuza.com'>Blogs</a> <</h2><br>
 <h2>> <a href='https://www.youtube.com/channel/UCW11Fl0kDGoRjbu-R_rNaDw'>Youtube</a> <</h2><br>
 
 </center>
