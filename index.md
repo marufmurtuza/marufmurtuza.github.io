@@ -9,7 +9,7 @@ body {
 <br>It's Maruf Bin Murtuza, an infosec enthusiast from Bangladesh.</h3>
 <h3> I am currently doing my B.Sc in CSE from Brac University.</h3>
 <h3> I am a fan of technology, programming and finding security flaws.  It's my passion to find system vulnerabilities.</h3> 
-<h3> But don't think me as a nerd just because of my passion.  I 1ove to enjoy life outside cyberspace as well.</h3> 
+<h3> But don't think me as a nerd just because of my passion.  I love to enjoy life outside cyberspace as well.</h3> 
 <h3>So, I won't mind if you invite me to have a cup of coffee or some spicy slices of pizza with you... 😉</h3>
 <h3>To invite me for coffee or pizza, you can reach me via the following links:</h3>
 <center>
