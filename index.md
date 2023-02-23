@@ -2,6 +2,7 @@
 body {
   background-image: url('https://raw.githubusercontent.com/marufmurtuza/marufmurtuza.github.io/main/background.jpg');
 }
+</style>
 <h1>Hey there!</h1>
 <h3>
 <br>It's Maruf Bin Murtuza, an infosec enthusiast from Bangladesh.</h3>
