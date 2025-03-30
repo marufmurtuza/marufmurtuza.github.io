@@ -1,0 +1,45 @@
+
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="circuit" width="60" height="60" patternUnits="userSpaceOnUse">
+      <!-- Base grid -->
+      <path d="M10 10h40v40h-40z" fill="none" stroke="rgba(0,240,255,0.15)" stroke-width="0.5" />
+      
+      <!-- Diagonal lines -->
+      <path d="M10 10L30 30M50 10L30 30M10 50L30 30M50 50L30 30" stroke="rgba(0,240,255,0.15)" stroke-width="0.5" />
+      
+      <!-- Connection lines -->
+      <path d="M30 10v10M10 30h10M40 30h10M30 40v10" stroke="rgba(0,240,255,0.15)" stroke-width="0.5" />
+      
+      <!-- Central node and connection points -->
+      <circle cx="30" cy="30" r="2" fill="rgba(0,240,255,0.25)" />
+      <circle cx="10" cy="10" r="1" fill="rgba(0,240,255,0.2)" />
+      <circle cx="50" cy="10" r="1" fill="rgba(0,240,255,0.2)" />
+      <circle cx="10" cy="50" r="1" fill="rgba(0,240,255,0.2)" />
+      <circle cx="50" cy="50" r="1" fill="rgba(0,240,255,0.2)" />
+      <circle cx="30" cy="10" r="1" fill="rgba(0,240,255,0.2)" />
+      <circle cx="10" cy="30" r="1" fill="rgba(0,240,255,0.2)" />
+      <circle cx="50" cy="30" r="1" fill="rgba(0,240,255,0.2)" />
+      <circle cx="30" cy="50" r="1" fill="rgba(0,240,255,0.2)" />
+      
+      <!-- Additional circuit elements for complexity -->
+      <path d="M15 15h10v10h-10z" fill="none" stroke="rgba(0,240,255,0.1)" stroke-width="0.3" />
+      <path d="M35 15h10v10h-10z" fill="none" stroke="rgba(0,240,255,0.1)" stroke-width="0.3" />
+      <path d="M15 35h10v10h-10z" fill="none" stroke="rgba(0,240,255,0.1)" stroke-width="0.3" />
+      <path d="M35 35h10v10h-10z" fill="none" stroke="rgba(0,240,255,0.1)" stroke-width="0.3" />
+      
+      <!-- Micro details -->
+      <circle cx="20" cy="20" r="0.7" fill="rgba(255,0,221,0.15)" />
+      <circle cx="40" cy="20" r="0.7" fill="rgba(255,0,221,0.15)" />
+      <circle cx="20" cy="40" r="0.7" fill="rgba(255,0,221,0.15)" />
+      <circle cx="40" cy="40" r="0.7" fill="rgba(255,0,221,0.15)" />
+      
+      <!-- Data flow lines -->
+      <path d="M20 20v-5h10" stroke="rgba(0,240,255,0.1)" stroke-width="0.3" stroke-dasharray="1,1" />
+      <path d="M40 20h5v10" stroke="rgba(0,240,255,0.1)" stroke-width="0.3" stroke-dasharray="1,1" />
+      <path d="M20 40h-5v-10" stroke="rgba(0,240,255,0.1)" stroke-width="0.3" stroke-dasharray="1,1" />
+      <path d="M40 40v5h-10" stroke="rgba(0,240,255,0.1)" stroke-width="0.3" stroke-dasharray="1,1" />
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#circuit)" />
+</svg>
