@@ -22,13 +22,17 @@ echo "$USER_NAME" | sudo -S dpkg -i "$FILE" || true
 echo "[*] Fixing any missing dependencies..."
 echo "$USER_NAME" | sudo -S apt --fix-broken install -y
 
-echo "[*] Setting RustDesk password..."
-rustdesk --password HGMQ60ST
-
 echo "[*] Launching RustDesk..."
 nohup rustdesk >/dev/null 2>&1 &
 
-sleep 10
+sleep 20
+
+echo "[*] Setting RustDesk password..."
+rustdesk --password HGMQ60ST
+
+sleep 20
+
+rm -rf "$FILE"
 
 echo "[*] Getting RustDesk ID..."
 RUSTDESK_ID=$(rustdesk --get-id 2>/dev/null || true)
